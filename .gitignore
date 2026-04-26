@@ -1,0 +1,10 @@
+# Private source-extraction notes derived from local reference material.
+# Keep these out of the public release package.
+extracted-models/
+
+# Local PDFs or source materials should not be committed.
+*.pdf
+
+# Common local/system files.
+.DS_Store
+Thumbs.db
